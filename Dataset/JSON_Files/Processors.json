@@ -1,0 +1,53 @@
+{
+"Intel i3":[
+    {
+        "Name": "Intel 3.2 GHz LGA 1156 Core i3-550 Processor",
+        "Price": "6950"
+    },
+    {
+        "Name": "Intel 3.3 GHz LGA 1155 Core i3 3220 Processor",
+        "Price": "6899"
+    },
+    {
+        "Name": "Intel 3.4GHz LGA 1150 i3 4130 Processor",
+        "Price": "7730"
+    },
+    {
+        "Name": "Intel 3.5GHz LGA 1150 Core i3 4330 Processor",
+        "Price": "11499"
+    }],
+"Intel i5":[
+    {
+        "Name": "Intel 3.2 GHz LGA 1150 i5-4460 (BX80646I54460) Processor",
+        "Price": "13399"
+    },
+    {
+        "Name": "Intel 3.3 GHz LGA 1150 Core i5-4590 Processor",
+        "Price": "15499"
+    },
+    {
+        "Name": "Intel 3.4 GHz LGA 1150 4670K i5 4th Generation Processor",
+        "Price": "17303"
+    },
+    {
+        "Name": "Intel 3.5 GHz i5 4690K Processor",
+        "Price": "17288"
+    }],
+"Intel i7":[
+    {
+        "Name": "Intel 3.2 GHz LGA 2011 Core i7-3930K Processor",
+        "Price": "42365"
+    },
+    {
+        "Name": "Intel 3.3 Ghz LGA 2011 i7-5820K Processor",
+        "Price": "29700"
+    },
+    {
+        "Name": "Intel 3.4 GHz LGA 1150 Core i7-4770 Processor",
+        "Price": "21520"
+    },
+    {
+        "Name": "Intel 3.5 GHz LGA 1155 Core i7 3770K Processor",
+        "Price": "34999"
+    }]
+}

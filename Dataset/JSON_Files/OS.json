@@ -1,0 +1,58 @@
+{
+"Windows 7":[
+    {
+        "Name": "Microsoft Windows 7 Ultimate 32/64 Bit (Full Pack) Operating System",
+        "Price": "15799"
+    },
+    {
+        "Name": "Microsoft Windows 7 Home Premium 32/64 Bit (Full Pack) Operating System",
+        "Price": "5600"
+    },
+    {
+        "Name": "Microsoft Windows 7 Professional 32/64 Bit (Full Pack) Operating System",
+        "Price": "7995"
+    },
+    {
+        "Name": "Microsoft Windows 7 Home Basic (Full Pack) Operating System",
+        "Price": "5600"
+    }],
+"Windows 8":[
+    {
+        "Name": "Microsoft Windows 8 Professional 32 Bit Operating System",
+        "Price": "7995"
+    },
+    {
+        "Name": "Microsoft Windows 8 SL Home 64-Bit",
+        "Price": "5555"
+    }],
+"Windows 8.1":[
+    {
+        "Name": "Microsoft Windows 8.1 Full Version (32/64 bit)",
+        "Price": "7990"
+    },
+    {
+        "Name": "Microsoft Windows 8.1 Pro (32/64 bit)",
+        "Price": "7851"
+    },
+    {
+        "Name": "Microsoft Windows 8.1SL Home – 32-Bit",
+        "Price": "5383"
+    },
+    {
+        "Name": "Microsoft Windows 8.1 Professional OEM 32 bit",
+        "Price": "10010"
+    }],
+"zzz":[
+    {
+        "Name": "DOS",
+        "Price": "0"
+    },
+    {
+        "Name": "Ubuntu 14.04",
+        "Price": "0"
+    },
+    {
+        "Name": "Fedora 21",
+        "Price": "0"
+    }]
+}

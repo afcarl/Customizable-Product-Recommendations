@@ -1,0 +1,86 @@
+{
+"0250GB":[
+    {
+        "Name": "Seagate DB 3.4 250 GB Desktop",
+        "Price": "1750"
+    },
+    {
+        "Name": "Seagate 250 GB Desktop",
+        "Price": "3200"
+    },
+    {
+        "Name": "Seagate Sata 250 GB Desktop",
+        "Price": "1825"
+    },
+    {
+        "Name": "Samsung 840 EVO 250 GB Desktop SSD",
+        "Price": "9633"
+    },
+    {
+        "Name": "WD Green Power 250 GB Desktop",
+        "Price": "1990"
+    }],
+"0500GB":[
+    {
+        "Name": "WD Caviar Blue 500 GB Desktop",
+        "Price": "3590"
+    },
+    {
+        "Name": "Seagate Pipeline HD 500 GB",
+        "Price": "2965"
+    },
+    {
+        "Name": "Samsung 840 EVO 500 GB SSD",
+        "Price": "18499"
+    },
+    {
+        "Name": "Toshiba 500 GB",
+        "Price": "3300"
+    },
+    {
+        "Name": "HP SATA 500 GB",
+        "Price": "3300"
+    }],
+"1000GB":[
+    {
+        "Name": "Seagate Barracuda 1 TB",
+        "Price": "3922"
+    },
+    {
+        "Name": "WD Blue WD10EZEX 1 TB",
+        "Price": "4200"
+    },
+    {
+        "Name": "Toshiba 1 TB",
+        "Price": "3699"
+    },
+    {
+        "Name": "Samsung 840 EVO 1 TB SSD",
+        "Price": "29398"
+    },
+    {
+        "Name": "WD 1 TB",
+        "Price": "5300"
+    }],
+"2000GB":[
+    {
+        "Name": "WD Caviar Green 2 TB",
+        "Price": "5849"
+    },
+    {
+        "Name": "Seagate Barracuda 2 TB ",
+        "Price": "5865"
+    },
+    {
+        "Name": "WD 2 TB",
+        "Price": "7500"
+    },
+    {
+        "Name": "WD 2 TB",
+        "Price": "6289"
+    },
+    {
+        "Name": "WD 2 TB Black",
+        "Price": "10500"
+    }]
+}

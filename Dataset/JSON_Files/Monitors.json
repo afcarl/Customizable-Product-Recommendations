@@ -1,0 +1,107 @@
+{
+"15.6 Inch":[
+    {
+        "Name": "AOC 15.6 inch LED Backlit LCD - e1670Swu Monitor",
+        "Price": "4190"
+    },
+    {
+        "Name": "Acer P166HQL 15.6 Inch LED Backlit LCD Monitor",
+        "Price": "4263"
+    },
+    {
+        "Name": "Acer P166HQL 15.6 Inch LED Backlit LCD Monitor",
+        "Price": "4343"
+    },
+    {
+        "Name": "Philips 163V5LSB23 15.6 inch LED Backlit LCD Monitor",
+        "Price": "4512"
+    },
+    {
+        "Name": "LG 16EN33S 15.6 Inch LED Backlit LCD Monitor",
+        "Price": "5699"
+    }],
+"18.5 Inch":[
+    {
+        "Name": "Dell E1914H 18.5 Inch LED Backlit LCD Monitor",
+        "Price": "4949"
+    },
+    {
+        "Name": "Samsung LS19D300NY/XL 18.5 inch LED Backlit LCD Monitor",
+        "Price": "5400"
+    },
+    {
+        "Name": "LG 19M35A 18.5 Inch LED Backlit LCD Monitor",
+        "Price": "5410"
+    },
+    {
+        "Name": "AOC 18.5 inch LED Backlit LCD - e970Swnl Monitor",
+        "Price": "5094"
+    },
+    {
+        "Name": "Samsung LS19C170BS/XL 18.5 inch LCD Monitor",
+        "Price": "5887"
+    }],
+"21.5 Inch":[
+    {
+        "Name": "Dell S2240L 21.5 Inch LED Backlit LCD Monitor",
+        "Price": "7900"
+    },
+    {
+        "Name": "Samsung LS22C170BS/XL 21.5 Inch LED Backlit LCD Monitor",
+        "Price": "7650"
+    },
+    {
+        "Name": "AOC E2270SWN 21.5 inches Full HD LED Monitor",
+        "Price": "6877"
+    },
+    {
+        "Name": "Dell S2240T 21.5 Inch LED Backlit LCD Touchscreen Monitor",
+        "Price": "15000"
+    },
+    {
+        "Name": "HP Pavilion 22fi 21.5-inch Diagonal IPS LED Backlit Monitor",
+        "Price": "8736"
+    }],
+"24 Inch":[
+    {
+        "Name": "Dell E2414H 24 inch Monitor",
+        "Price": "10399"
+    },
+    {
+        "Name": "Dell S2240T 21.5 Inch LED Backlit LCD Touchscreen Monitor",
+        "Price": "15000"
+    },
+    {
+        "Name": "Samsung LS24B370HS 24 Inch LED Monitor",
+        "Price": "13510"
+    },
+    {
+        "Name": "LG 24MN33S MTV 24 inches LED Monitor",
+        "Price": "11699"
+    },
+    {
+        "Name": "Asus 24 inch VS248H LED Backlit LCD Monitor",
+        "Price": "13160"
+    }],
+"27 Inch":[
+    {
+        "Name": "Benq GW2760HS 27 inch Monitor",
+        "Price": "16900"
+    },
+    {
+        "Name": "Samsung LS27C750PS-XL 27 inch Monitor",
+        "Price": "25063"
+    },
+    {
+        "Name": "Philips 27 Inch WIDE LED 3D MONITOR",
+        "Price": "20931"
+    },
+    {
+        "Name": "Dell 27 inches U 2711 H Ultra Sharp monitor",
+        "Price": "71999"
+    },
+    {
+        "Name": "HP C4D27A7 Pavilion 27-inch LED Backlit Monitor",
+        "Price": "21037"
+    }]
+}

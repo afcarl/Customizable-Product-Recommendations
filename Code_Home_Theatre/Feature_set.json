@@ -1,0 +1,707 @@
+{
+    "TV":[
+    {
+        "Capacity": "32 Inch",
+        "Name": "Micromax 32TFK18 HD 81 cm (32) HD Ready LED Television",
+        "Price": "0226.49"
+    },
+    {
+        "Capacity": "32 Inch",
+        "Name": "Toshiba 32P2400 81 cm (32 inches) HD Ready LED Television ",
+        "Price": "0285.49"
+    },
+    {
+        "Capacity": "32 Inch",
+        "Name": "LG 32LB550A 80 cm (32 inches) HD Ready LED TV ",
+        "Price": "0328.49"
+    },
+    {
+        "Capacity": "32 Inch",
+        "Name": "Philips 32PFL3938 768p 81 cm (32 inches) HD Ready LED TV ",
+        "Price": "0304.49"
+    },
+    {
+        "Capacity": "32 Inch",
+        "Name": "Panasonic Viera 32A300D 81 cm (32 inches) HD Ready LED TV ",
+        "Price": "0308.99"
+    },
+    {
+        "Capacity": "32 Inch",
+        "Name": "Samsung 32EH4003 81 cm (32 inches) HD Ready LED TV",
+        "Price": "0347.49"
+    },
+    {
+        "Capacity": "32 Inch",
+        "Name": "Sony BRAVIA KLV-32R412B 80 cm (32 inches) LED TV ",
+        "Price": "0436.49"
+    },
+    {
+        "Capacity": "39 Inch",
+        "Name": "Sharp 39LE155 99 cm (39 inches) Full HD LED ",
+        "Price": "0609.49"
+    },
+    {
+        "Capacity": "40 Inch",
+        "Name": "Toshiba 40L2400 101 cm (40 inches) Full HD LED Television ",
+        "Price": "0535.49"
+    },
+    {
+        "Capacity": "40 Inch",
+        "Name": "Samsung 40H5500 101.6cm (40 inches) Full HD LED Smart TV ",
+        "Price": "0857.49"
+    },
+    {
+        "Capacity": "40 Inch",
+        "Name": "Sony Bravia KLV-40R482B 101 cm (40 inches) Full HD LED TV",
+        "Price": "0848.99"
+    },
+    {
+        "Capacity": "40 Inch",
+        "Name": "Toshiba 40l5400ze 101 cm (40 inches) Smart Google (Android 4.4.2) Full HD LED TV ",
+        "Price": "0946.49"
+    },
+    {
+        "Capacity": "42 Inch",
+        "Name": "LG 42LB5610 106 cm (42 inches) Full HD LED TV ",
+        "Price": "0846.99"
+    },
+    {
+        "Capacity": "42 Inch",
+        "Name": "Panasonic Viera TH-42ASM610D 106.68 cm (42 inches) Full HD Smart LED TV ",
+        "Price": "0763.99"
+    },
+    {
+        "Capacity": "42 Inch",
+        "Name": "Hitachi L42T05A 106.68 cm (42 inches) Full HD LCD TV ",
+        "Price": "0769.99"
+    },
+    {
+        "Capacity": "47 Inch",
+        "Name": "LG 47LA7400 47\" 1080p 3D LED-LCD HDTV with Wi-Fi",
+        "Price": "0959.99"
+    },
+    {
+        "Capacity": "47 Inch",
+        "Name": "Sony Bravia KDL 48W600 121 cm (47 inches) Full HD LED Smart TV ",
+        "Price": "1361.99"
+    },
+    {
+        "Capacity": "48 Inch",
+        "Name": "Samsung UN48H6350 48\" 1080p LED-LCD HDTV with Wi-Fi",
+        "Price": "0679.99"
+    },
+    {
+        "Capacity": "48 Inch",
+        "Name": "Samsung UN48JU6700 48\" curved-screen 4K Ultra High Definition TV",
+        "Price": "1149.99"
+    },
+    {
+        "Capacity": "48 Inch",
+        "Name": "Sony KLV-48R482B 121 cm (48 inches) Full HD LED TV ",
+        "Price": "1201.49"
+    },
+    {
+        "Capacity": "48 Inch",
+        "Name": "Samsung 48 inch 3D Smart LED TV 48H8000",
+        "Price": "2225.99"
+    },
+    {
+        "Capacity": "50 Inch",
+        "Name": "Sony KDL-50W800B 50\" 1080p 3D LED-LCD HDTV with Wi-Fi",
+        "Price": "0799.99"
+    },
+    {
+        "Capacity": "50 Inch",
+        "Name": "LG 50LB6300 50\" 1080p LED-LCD HDTV with Wi-Fi",
+        "Price": "0699.99"
+    },
+    {
+        "Capacity": "51 Inch",
+        "Name": "Samsung 51F5500 Plasma TV 51\"",
+        "Price": "2244.99"
+    },
+    {
+        "Capacity": "55 Inch",
+        "Name": "LG 55UB9500 55\" 4K Ultra High Definition TV",
+        "Price": "1499.99"
+    },
+    {
+        "Capacity": "55 Inch",
+        "Name": "Samsung UN55F6400 55\" 1080p 3D LED-LCD HDTV with Wi-Fi",
+        "Price": "1104.99"
+    },
+    {
+        "Capacity": "55 Inch",
+        "Name": "Sony KDL-55W950B 55\" 1080p 3D LED-LCD HDTV with Wi-Fi",
+        "Price": "0999.99"
+    },
+    {
+        "Capacity": "55 Inch",
+        "Name": "Aukera YL55K709 139.7 cm (55 inches) HD 3D LED TV",
+        "Price": "1114.99"
+    },
+    {
+        "Capacity": "55 Inch",
+        "Name": "LG 55LA6200 55-inch Ultra Slim Cinema 3D Smart Full HD LED Television",
+        "Price": "2012.99"
+    },
+    {
+        "Capacity": "55 Inch",
+        "Name": "Samsung Series 8 UA55H8000 139.7 cm (55 inches) Full HD Curved LED TV Smart ",
+        "Price": "2984.49"
+    },
+    {
+        "Capacity": "60 Inch",
+        "Name": "Sony KDL-60W850B 60\" 1080p 3D LED-LCD HDTV with Wi-Fi",
+        "Price": "1199.99"
+    },
+    {
+        "Capacity": "60 Inch",
+        "Name": "Sharp LC-60EQ10U 60\" 1080p LED-LCD HDTV with Wi-Fi",
+        "Price": "1199.99"
+    },
+    {
+        "Capacity": "60 Inch",
+        "Name": "Samsung UN60H6350 60\" 1080p LED-LCD HDTV with Wi-Fi",
+        "Price": "1199.99"
+    },
+    {
+        "Capacity": "65 Inch",
+        "Name": "Samsung Series 8 UA65H8000 165 cm ( 65 inches) Full HD 3D Smart LED TV ",
+        "Price": "4424.99"
+    },
+    {
+        "Capacity": "65 Inch",
+        "Name": "LG 65LB6300 65\" 1080p LED-LCD HDTV with Wi-Fi",
+        "Price": "1039.99"
+    },
+    {
+        "Capacity": "65 Inch",
+        "Name": "Sony KDL-65W950B 65\" 1080p 3D LED-LCD HDTV with Wi-Fi",
+        "Price": "1999.99"
+    },
+    {
+        "Capacity": "65 Inch",
+        "Name": "LG 65LA9650 65\" Ultra High Definition TV with 4K resolution",
+        "Price": "2249.99"
+    }],
+    "Blu-Ray Players":[
+    {
+        "Capacity": "Blu-Ray with networking",
+        "Name": "Samsung BD-H5100 Blu-ray player with networking",
+        "Price": "0079.99"
+    },
+    {
+        "Capacity": "Blu-Ray with networking",
+        "Name": "Denon DBT-1713UD 3D universal Blu-ray player with networking",
+        "Price": "0499.99"
+    },
+    {
+        "Capacity": "Blu-Ray with Wi-Fi",
+        "Name": "Sony BDP-S3200 Blu-ray player with Wi-Fi",
+        "Price": "0079.99"
+    },
+    {
+        "Capacity": "Blu-Ray with Wi-Fi",
+        "Name": "Samsung BD-H5900 3D Blu-ray player with Wi-Fi",
+        "Price": "0129.99"
+    },
+    {
+        "Capacity": "Blu-Ray with Wi-Fi",
+        "Name": "Sony BDP-S6200 3D Blu-ray player with 4K upscaling and Wi-Fi",
+        "Price": "0129.99"
+    },
+    {
+        "Capacity": "Blu-Ray with Wi-Fi",
+        "Name": "LG BP-730 3D Blu-ray player with 4K upscaling and Wi-Fi",
+        "Price": "0199.99"
+    },
+    {
+        "Capacity": "Blu-Ray with Wi-Fi",
+        "Name": "Pioneer Elite BDP-80FD 3D Blu-ray player with Wi-Fi",
+        "Price": "0299.99"
+    },
+    {
+        "Capacity": "Blu-Ray with Wi-Fi",
+        "Name": "Yamaha BD-S677 3D Blu-ray player with Wi-Fi",
+        "Price": "0329.99"
+    },
+    {
+        "Capacity": "Blu-Ray Universal",
+        "Name": "Marantz UD5007 Internet-ready universal 3D Blu-ray player",
+        "Price": "0599.99"
+    },
+    {
+        "Capacity": "Blu-Ray Universal",
+        "Name": "Cambridge Audio Azur 752BD Universal 3D Blu-ray player with digital audio inputs and Wi-Fi",
+        "Price": "1199.99"
+    },
+    {
+        "Capacity": "Blu-Ray Universal",
+        "Name": "Oppo BDP-105D Darbee Edition Universal 3D Blu-ray player with digital audio inputs and Wi-Fi",
+        "Price": "1319.99"
+    }],
+    "Receivers":[
+    {
+        "Capacity": "5 Channel",
+        "Name": "Pioneer VSX-524 5.1-channel home theater receiver",
+        "Price": "0199.99"
+    },
+    {
+        "Capacity": "5 Channel",
+        "Name": "Sony STR-DH550 5.2-channel home theater receiver",
+        "Price": "0229.99"
+    },
+    {
+        "Capacity": "5 Channel",
+        "Name": "Denon AVR-S500BT 5.2-channel home theater receiver with Bluetooth",
+        "Price": "0249.99"
+    },
+    {
+        "Capacity": "5 Channel",
+        "Name": "Yamaha RX-V377 5.1-channel home theater receiver",
+        "Price": "0249.99"
+    },
+    {
+        "Capacity": "5 Channel",
+        "Name": "Marantz NR1403 5.1-channel home theater receiver",
+        "Price": "0299.99"
+    },
+    {
+        "Capacity": "5 Channel",
+        "Name": "Harman Kardon AVR 1610 5.1-channel home theater receiver with Bluetooth",
+        "Price": "0399.99"
+    },
+    {
+        "Capacity": "5 Channel",
+        "Name": "Onkyo TX-NR535 5.2-channel home theater receiver with Wi-Fi and Bluetooth",
+        "Price": "0399.99"
+    },
+    {
+        "Capacity": "5 Channel",
+        "Name": "Pioneer VSX-824 5.2-channel home theater receiver with Apple AirPlay",
+        "Price": "0399.99"
+    },
+    {
+        "Capacity": "5 Channel",
+        "Name": "Marantz NR1504 5.1-channel home theater receiver with Apple AirPlay",
+        "Price": "0499.99"
+    },
+    {
+        "Capacity": "5 Channel",
+        "Name": "Cambridge Audio Azur 351R 5.1-channel home theater receiver",
+        "Price": "0799.99"
+    },
+    {
+        "Capacity": "7 Channel",
+        "Name": "Sony STR-DH750 7.2-channel home theater receiver with Bluetooth",
+        "Price": "0274.99"
+    },
+    {
+        "Capacity": "7 Channel",
+        "Name": "Sony STR-DN850 7.2-channel home theater receiver with Wi-Fi, Bluetooth, and Apple AirPlay",
+        "Price": "0399.99"
+    },
+    {
+        "Capacity": "7 Channel",
+        "Name": "Denon AVR-S700W 7.2-channel home theater receiver with Wi-Fi, Bluetooth, and Apple AirPlay",
+        "Price": "0449.99"
+    },
+    {
+        "Capacity": "7 Channel",
+        "Name": "Yamaha RX-V577 7.2-channel home theater receiver with Wi-Fi and Apple AirPlay",
+        "Price": "0449.99"
+    },
+    {
+        "Capacity": "7 Channel",
+        "Name": "Onkyo TX-NR636 7.2-channel home theater receiver with Wi-Fi and Bluetooth",
+        "Price": "0499.99"
+    },
+    {
+        "Capacity": "7 Channel",
+        "Name": "Pioneer Elite VSX-44 7.2-channel home theater receiver with Apple AirPlay",
+        "Price": "0499.99"
+    },
+    {
+        "Capacity": "7 Channel",
+        "Name": "Harman Kardon AVR 1710 7.2-channel home theater receiver with Bluetooth and Apple AirPlay",
+        "Price": "0549.99"
+    },
+    {
+        "Capacity": "7 Channel",
+        "Name": "Marantz SR5008 7.2-channel home theater receiver with Apple AirPlay",
+        "Price": "0599.99"
+    },
+    {
+        "Capacity": "7 Channel",
+        "Name": "NAD T 748V2 7.1-channel home theater receiver",
+        "Price": "0599.99"
+    },
+    {
+        "Capacity": "7 Channel",
+        "Name": "Onkyo TX-NR828 7.2-channel home theater receiver with Wi-Fi and Bluetooth",
+        "Price": "0599.99"
+    },
+    {
+        "Capacity": "7 Channel",
+        "Name": "Yamaha AVENTAGE RX-A740 7.2-channel home theater receiver with Wi-Fi and Apple AirPlay",
+        "Price": "0649.99"
+    },
+    {
+        "Capacity": "9 Channel",
+        "Name": "Marantz SR7008 9.2-channel home theater receiver with Apple AirPlay",
+        "Price": "1599.99"
+    },
+    {
+        "Capacity": "9 Channel",
+        "Name": "Onkyo TX-NR1030 9.2-channel home theater receiver with Wi-Fi and Bluetooth",
+        "Price": "1599.99"
+    },
+    {
+        "Capacity": "9 Channel",
+        "Name": "Pioneer Elite SC-85 9.2-channel receiver with Apple AirPlay and Dolby Atmos",
+        "Price": "1599.99"
+    },
+    {
+        "Capacity": "9 Channel",
+        "Name": "Yamaha AVENTAGE RX-A2040 9.2-channel home theater receiver with Wi-Fi and Apple AirPlay",
+        "Price": "1599.99"
+    },
+    {
+        "Capacity": "9 Channel",
+        "Name": "Denon AVR-X5200W IN-Command 9.2-channel home theater receiver with Wi-Fi, Bluetooth, and Apple AirPlay",
+        "Price": "1999.99"
+    },
+    {
+        "Capacity": "9 Channel",
+        "Name": "Pioneer Elite SC-89 9.2-channel home theater receiver with Apple AirPlay and Dolby Atmos",
+        "Price": "2999.99"
+    },
+    {
+        "Capacity": "9 Channel",
+        "Name": "Sony STR-DA5800ES2 9.2-channel home theater receiver, Internet-ready",
+        "Price": "2099.99"
+    },
+    {
+        "Capacity": "11 Channel",
+        "Name": "Onkyo TX-NR3030 11.2-channel home theater receiver with Wi-Fi and Bluetooth",
+        "Price": "2299.99"
+    }],
+    "Universal Remote":[
+    {
+        "Capacity": "Remote",
+        "Name": "Logitech Harmony 350 Universal remote with one-touch TV control",
+        "Price": "0049.99"
+    },
+    {
+        "Capacity": "Remote",
+        "Name": "Logitech Harmony 650 Universal remote with color screen",
+        "Price": "0079.99"
+    },
+    {
+        "Capacity": "Remote",
+        "Name": "Logitech Harmony Ultimate One Universal remote with customizable swipe and tap touchscreen",
+        "Price": "0249.99"
+    },
+    {
+        "Capacity": "Remote",
+        "Name": "Universal MX-450 Remote Control Multibrand remote with one-touch operation",
+        "Price": "0249.99"
+    }],
+    "Speakers":[
+    {
+        "Capacity": "Sound Bar",
+        "Name": "JBL Cinema SB 100 Powered home theater sound bar",
+        "Price": "0149.99"
+    },
+    {
+        "Capacity": "Sound Bar",
+        "Name": "Boston Acoustics SoundWare XS Digital Cinema Bluetooth-capable home theater speaker system",
+        "Price": "0152.99"
+    },
+    {
+        "Capacity": "Sound Bar",
+        "Name": "Yamaha YAS-152 Powered home theater sound bar with Bluetooth",
+        "Price": "0219.99"
+    },
+    {
+        "Capacity": "Sound Bar",
+        "Name": "JBL Cinema SB 200 Powered home theater sound bar with Bluetooth",
+        "Price": "0249.99"
+    },
+    {
+        "Capacity": "Sound Bar",
+        "Name": "Polk Audio SurroundBar 5000 Instant Home Theater with sound bar with wireless subwoofer and Bluetooth streaming",
+        "Price": "0279.99"
+    },
+    {
+        "Capacity": "Sound Bar",
+        "Name": "Boston Acoustics TVee Model 26 Powered home theater sound bar with wireless subwoofer",
+        "Price": "0299.99"
+    },
+    {
+        "Capacity": "Sound Bar",
+        "Name": "Samsung HW-H450 Powered home theater sound bar with wireless subwoofer and Bluetooth",
+        "Price": "0299.99"
+    },
+    {
+        "Capacity": "Sound Bar",
+        "Name": "Pioneer SP-SB03 Speaker Base Powered home theater sound system/TV platform with Bluetooth (upto 55 inch tv)",
+        "Price": "0349.99"
+    },
+    {
+        "Capacity": "Sound Bar",
+        "Name": "Sony HT-CT370 Powered home theater sound bar with wireless subwoofer and Bluetooth",
+        "Price": "0349.99"
+    },
+    {
+        "Capacity": "Sound Bar",
+        "Name": "Harman Kardon SB 26 Powered home theater sound bar with wireless subwoofer and Bluetooth",
+        "Price": "0499.99"
+    },
+    {
+        "Capacity": "Sound Bar",
+        "Name": "BOSE CineMate 15 home theater speaker system",
+        "Price": "0599.99"
+    },
+    {
+        "Capacity": "Sound Bar",
+        "Name": "Klipsch Reference R-10B Powered home theater sound bar with wireless subwoofer and Bluetooth",
+        "Price": "0599.99"
+    },
+    {
+        "Capacity": "Sound Bar",
+        "Name": "Denon DHT-S514 Powered home theater sound bar with wireless subwoofer and Bluetooth",
+        "Price": "0599.99"
+    },
+    {
+        "Capacity": "Surround Sound",
+        "Name": "Polk Audio Blackstone TL150 5-speaker home theater system",
+        "Price": "0299.99"
+    },
+    {
+        "Capacity": "Surround Sound",
+        "Name": "Bose Acoustimass 5 Series V speaker system",
+        "Price": "0399.99"
+    },
+    {
+        "Capacity": "Surround Sound",
+        "Name": "Definitive Technology ProCinema 400 Home theater speaker system",
+        "Price": "0499.99"
+    },
+    {
+        "Capacity": "Surround Sound",
+        "Name": "Polk Audio Blackstone TL350 Compact home theater speaker system",
+        "Price": "0749.99"
+    },
+    {
+        "Capacity": "Surround Sound",
+        "Name": "Cambridge Audio Minx S215-V2 5.1-channel speaker system",
+        "Price": "0849.99"
+    },
+    {
+        "Capacity": "Surround Sound",
+        "Name": "Bose Acoustimass 10 Series V home entertainment speaker system",
+        "Price": "0999.99"
+    },
+    {
+        "Capacity": "Surround Sound",
+        "Name": "Definitive Technology ProCinema 2000 Home theater speaker system",
+        "Price": "1694.99"
+    },
+    {
+        "Capacity": "Surround Sound",
+        "Name": "Cambridge Audio Minx S325-V2 5.1-channel speaker system",
+        "Price": "1449.99"
+    },
+    {
+        "Capacity": "Bookshelf Speakers (1 pair)",
+        "Name": "Polk Audio Blackstone TL1 (1 pair)",
+        "Price": "0119.99"
+    },
+    {
+        "Capacity": "Bookshelf Speakers (1 pair)",
+        "Name": "Cambridge Audio Minx Min 11 Ultra-compact satellite speaker (1 pair)",
+        "Price": "0139.99"
+    },
+    {
+        "Capacity": "Bookshelf Speakers (1 pair)",
+        "Name": "Infinity Primus P153 (1 pair)",
+        "Price": "0151.99"
+    },
+    {
+        "Capacity": "Bookshelf Speakers (1 pair)",
+        "Name": "Boston Acoustics SoundWare (1 pair)",
+        "Price": "0199.99"
+    },
+    {
+        "Capacity": "Bookshelf Speakers (1 pair)",
+        "Name": "Definitive Technology ProMonitor 800 (1 pair)",
+        "Price": "0289.99"
+    },
+    {
+        "Capacity": "Bookshelf Speakers (1 pair)",
+        "Name": "Polk Audio OWM3 (1 pair)",
+        "Price": "0099.99"
+    },
+    {
+        "Capacity": "Bookshelf Speakers (1 pair)",
+        "Name": "TEAC LS-H70A Bookshelf speakers (1 pair)",
+        "Price": "0099.99"
+    },
+    {
+        "Capacity": "Bookshelf Speakers (1 pair)",
+        "Name": "Bose 161 speaker system (1 pair)",
+        "Price": "0158.99"
+    },
+    {
+        "Capacity": "Bookshelf Speakers (1 pair)",
+        "Name": "Bose 201 Series V Direct/Reflecting speaker system (1 pair)",
+        "Price": "0218.99"
+    },
+    {
+        "Capacity": "Bookshelf Speakers (2 pair)",
+        "Name": "Polk Audio Blackstone TL1 (2 pair)",
+        "Price": "0239.99"
+    },
+    {
+        "Capacity": "Bookshelf Speakers (2 pair)",
+        "Name": "Infinity Primus P153 (2 pair)",
+        "Price": "0303.99"
+    },
+    {
+        "Capacity": "Bookshelf Speakers (2 pair)",
+        "Name": "Boston Acoustics SoundWare (2 pair)",
+        "Price": "0399.99"
+    },
+    {
+        "Capacity": "Bookshelf Speakers (2 pair)",
+        "Name": "Cambridge Audio Minx Min 11 Ultra-compact satellite speaker (2 pair)",
+        "Price": "0279.99"
+    },
+    {
+        "Capacity": "Bookshelf Speakers (2 pair)",
+        "Name": "Definitive Technology ProMonitor 800 (2 pair)",
+        "Price": "0579.99"
+    },
+    {
+        "Capacity": "Bookshelf Speakers (2 pair)",
+        "Name": "TEAC LS-H70A Bookshelf speakers (2 pair)",
+        "Price": "0199.99"
+    },
+    {
+        "Capacity": "Bookshelf Speakers (2 pair)",
+        "Name": "Polk Audio OWM3 (2 pair)",
+        "Price": "0199.99"
+    },
+    {
+        "Capacity": "Bookshelf Speakers (2 pair)",
+        "Name": "Bose 161 speaker system (2 pair)",
+        "Price": "0317.99"
+    },
+    {
+        "Capacity": "Bookshelf Speakers (2 pair)",
+        "Name": "Bose 201 Series V Direct/Reflecting speaker system (2 pair)",
+        "Price": "0437.99"
+    },
+    {
+        "Capacity": "Floor Standing Speakers (1 pair)",
+        "Name": "Infinity Primus 253BK Floor-standing speaker (1 pair)",
+        "Price": "0299.99"
+    },
+    {
+        "Capacity": "Floor Standing Speakers (1 pair)",
+        "Name": "Polk Audio TSi300 Floor-standing speaker (1 pair)",
+        "Price": "0339.99"
+    },
+    {
+        "Capacity": "Floor Standing Speakers (1 pair)",
+        "Name": "Cambridge Audio S70 Floor-standing speaker (1 pair)",
+        "Price": "0399.99"
+    },
+    {
+        "Capacity": "Floor Standing Speakers (1 pair)",
+        "Name": "Klipsch Reference RF-42 II Floor-standing speaker (1 pair)",
+        "Price": "0399.99"
+    },
+    {
+        "Capacity": "Floor Standing Speakers (1 pair)",
+        "Name": "Infinity Primus P363 Floor-standing speaker (1 pair)",
+        "Price": "0399.99"
+    },
+    {
+        "Capacity": "Floor Standing Speakers (1 pair)",
+        "Name": "Boston Acoustics M250 Floor-standing speaker (1 pair)",
+        "Price": "0549.99"
+    },
+    {
+        "Capacity": "Floor Standing Speakers (1 pair)",
+        "Name": "Definitive Technology BP6B Bipolar floor-standing  speaker (1 pair)",
+        "Price": "0798.99"
+    },
+    {
+        "Capacity": "Floor Standing Speakers (1 pair)",
+        "Name": "Klipsch Reference RF-82 II Floor-standing speaker (1 pair)",
+        "Price": "0799.99"
+    },
+    {
+        "Capacity": "Floor Standing Speakers (1 pair)",
+        "Name": "Definitive Technology BP-8020ST Bipolar floor-standing speaker with built-in powered subwoofer (1 pair)",
+        "Price": "1199.99"
+    },
+    {
+        "Capacity": "Floor Standing Speakers (1 pair)",
+        "Name": "Focal Chorus 714 Floor-standing speaker(Rosewood) (1 pair)",
+        "Price": "1299.99"
+    },
+    {
+        "Capacity": "Floor Standing Speakers (2 pair)",
+        "Name": "Infinity Primus 253BK Floor-standing speaker (2 pair)",
+        "Price": "0599.99"
+    },
+    {
+        "Capacity": "Floor Standing Speakers (2 pair)",
+        "Name": "Polk Audio TSi300 Floor-standing speaker (2 pair)",
+        "Price": "0679.99"
+    },
+    {
+        "Capacity": "Floor Standing Speakers (2 pair)",
+        "Name": "Cambridge Audio S70 Floor-standing speaker (2 pair)",
+        "Price": "0799.99"
+    },
+    {
+        "Capacity": "Floor Standing Speakers (2 pair)",
+        "Name": "Klipsch Reference RF-42 II Floor-standing speaker (2 pair)",
+        "Price": "0799.99"
+    },
+    {
+        "Capacity": "Floor Standing Speakers (2 pair)",
+        "Name": "Infinity Primus P363 Floor-standing speaker (2 pair)",
+        "Price": "0799.99"
+    },
+    {
+        "Capacity": "Floor Standing Speakers (2 pair)",
+        "Name": "Boston Acoustics M250 Floor-standing speaker (2 pair)",
+        "Price": "01099.99"
+    },
+    {
+        "Capacity": "Floor Standing Speakers (2 pair)",
+        "Name": "Definitive Technology BP6B Bipolar floor-standing  speaker (2 pair)",
+        "Price": "1597.99"
+    },
+    {
+        "Capacity": "Floor Standing Speakers (2 pair)",
+        "Name": "Klipsch Reference RF-82 II Floor-standing speaker (2 pair)",
+        "Price": "1599.99"
+    },
+    {
+        "Capacity": "Floor Standing Speakers (2 pair)",
+        "Name": "Definitive Technology BP-8020ST Bipolar floor-standing speaker with built-in powered subwoofer (2 pair)",
+        "Price": "2399.99"
+    },
+    {
+        "Capacity": "Floor Standing Speakers (2 pair)",
+        "Name": "Focal Chorus 714 Floor-standing speaker(Rosewood) (2 pair)",
+        "Price": "2599.99"
+    }]
+}

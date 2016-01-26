@@ -1,0 +1,20 @@
+WD Caviar Green 2 TB,Forsa NVIDIA GT630 4 GB DDR3,Dell E2414H 24 inch Monitor,DOS,Intel 3.4 GHz LGA 1150 Core i7-4770 Processor,G.Skill Ripjaws X DDR3 16 GB (1 X 16 GB) PC
+WD Caviar Green 2 TB,Forsa NVIDIA GT630 4 GB DDR3,Dell E2414H 24 inch Monitor,Microsoft Windows 8.1SL Home - 32-Bit,Intel 3.4 GHz LGA 1150 Core i7-4770 Processor,G.Skill Ripjaws X DDR3 16 GB (1 X 16 GB) PC
+WD Caviar Green 2 TB,Forsa NVIDIA GT630 4 GB DDR3,Dell E2414H 24 inch Monitor,Microsoft Windows 8.1SL Home - 32-Bit,Intel 3.4 GHz LGA 1150 Core i7-4770 Processor,Transcend JetRam DDR3 32 GB (4 x 8 GB) PC DRAM (JM1600KLH-8G)
+WD Caviar Green 2 TB,Forsa NVIDIA GT630 4 GB DDR3,Benq GW2760HS 27 inch Monitor,Microsoft Windows 8.1SL Home - 32-Bit,Intel 3.4 GHz LGA 1150 Core i7-4770 Processor,Transcend JetRam DDR3 32 GB (4 x 8 GB) PC DRAM (JM1600KLH-8G)
+Seagate Barracuda 2 TB ,Forsa NVIDIA GT630 4 GB DDR3,Benq GW2760HS 27 inch Monitor,Microsoft Windows 8.1SL Home - 32-Bit,Intel 3.4 GHz LGA 1150 Core i7-4770 Processor,Transcend JetRam DDR3 32 GB (4 x 8 GB) PC DRAM (JM1600KLH-8G)
+WD Caviar Green 2 TB,Forsa NVIDIA GT630 4 GB DDR3,Dell E2414H 24 inch Monitor,DOS,Intel 3.4 GHz LGA 1150 Core i7-4770 Processor,Transcend JetRam DDR3 32 GB (4 x 8 GB) PC DRAM (JM1600KLH-8G)
+WD Caviar Green 2 TB,Forsa NVIDIA GT630 4 GB DDR3,Benq GW2760HS 27 inch Monitor,DOS,Intel 3.4 GHz LGA 1150 Core i7-4770 Processor,Transcend JetRam DDR3 32 GB (4 x 8 GB) PC DRAM (JM1600KLH-8G)
+Seagate Barracuda 2 TB ,Forsa NVIDIA GT630 4 GB DDR3,Benq GW2760HS 27 inch Monitor,DOS,Intel 3.4 GHz LGA 1150 Core i7-4770 Processor,Transcend JetRam DDR3 32 GB (4 x 8 GB) PC DRAM (JM1600KLH-8G)
+WD 2 TB Green,Forsa NVIDIA GT630 4 GB DDR3,Benq GW2760HS 27 inch Monitor,DOS,Intel 3.4 GHz LGA 1150 Core i7-4770 Processor,Transcend JetRam DDR3 32 GB (4 x 8 GB) PC DRAM (JM1600KLH-8G)
+WD 2 TB IntelliPower,Forsa NVIDIA GT630 4 GB DDR3,Benq GW2760HS 27 inch Monitor,DOS,Intel 3.4 GHz LGA 1150 Core i7-4770 Processor,Transcend JetRam DDR3 32 GB (4 x 8 GB) PC DRAM (JM1600KLH-8G)
+WD Caviar Green 2 TB,Forsa NVIDIA GT630 4 GB DDR3,Benq GW2760HS 27 inch Monitor,DOS,Intel 3.4 GHz LGA 1150 Core i7-4770 Processor,G.Skill Ripjaws X DDR3 16 GB (1 X 16 GB) PC
+Seagate Barracuda 2 TB ,Forsa NVIDIA GT630 4 GB DDR3,Benq GW2760HS 27 inch Monitor,DOS,Intel 3.4 GHz LGA 1150 Core i7-4770 Processor,G.Skill Ripjaws X DDR3 16 GB (1 X 16 GB) PC
+WD 2 TB Green,Forsa NVIDIA GT630 4 GB DDR3,Benq GW2760HS 27 inch Monitor,DOS,Intel 3.4 GHz LGA 1150 Core i7-4770 Processor,G.Skill Ripjaws X DDR3 16 GB (1 X 16 GB) PC
+WD 2 TB IntelliPower,Forsa NVIDIA GT630 4 GB DDR3,Benq GW2760HS 27 inch Monitor,DOS,Intel 3.4 GHz LGA 1150 Core i7-4770 Processor,G.Skill Ripjaws X DDR3 16 GB (1 X 16 GB) PC
+Seagate Barracuda 2 TB ,Forsa NVIDIA GT630 4 GB DDR3,Dell E2414H 24 inch Monitor,DOS,Intel 3.4 GHz LGA 1150 Core i7-4770 Processor,G.Skill Ripjaws X DDR3 16 GB (1 X 16 GB) PC
+WD 2 TB Green,Forsa NVIDIA GT630 4 GB DDR3,Dell E2414H 24 inch Monitor,DOS,Intel 3.4 GHz LGA 1150 Core i7-4770 Processor,G.Skill Ripjaws X DDR3 16 GB (1 X 16 GB) PC
+WD 2 TB IntelliPower,Forsa NVIDIA GT630 4 GB DDR3,Dell E2414H 24 inch Monitor,DOS,Intel 3.4 GHz LGA 1150 Core i7-4770 Processor,G.Skill Ripjaws X DDR3 16 GB (1 X 16 GB) PC
+WD 2 TB IntelliPower,Sapphire AMD/ATI Radeon R9 270X with Boost OC 4GB,Dell E2414H 24 inch Monitor,DOS,Intel 3.4 GHz LGA 1150 Core i7-4770 Processor,G.Skill Ripjaws X DDR3 16 GB (1 X 16 GB) PC
+WD 2 TB Black,Sapphire AMD/ATI Radeon R9 270X with Boost OC 4GB,Dell E2414H 24 inch Monitor,DOS,Intel 3.4 GHz LGA 1150 Core i7-4770 Processor,G.Skill Ripjaws X DDR3 16 GB (1 X 16 GB) PC
+WD Caviar Green 2 TB,Sapphire AMD/ATI Radeon R9 270X with Boost OC 4GB,Dell E2414H 24 inch Monitor,DOS,Intel 3.4 GHz LGA 1150 Core i7-4770 Processor,G.Skill Ripjaws X DDR3 16 GB (1 X 16 GB) PC

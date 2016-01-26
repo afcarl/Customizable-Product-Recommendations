@@ -1,0 +1,86 @@
+{
+"04GB":[
+    {
+        "Name": "Corsair Vengeance DDR3 4 GB (1 x 4 GB) PC DRAM ",
+        "Price": "2920"
+    },
+    {
+        "Name": "Transcend DDR3-1333 DDR3 4 GB (1 x 4 GB) PC DRAM",
+        "Price": "2295"
+    },
+    {
+        "Name": "EVM DDR3 4 GB (1 x 4 GB) PC DRAM",
+        "Price": "2599"
+    },
+    {
+        "Name": "HP DDR3 4 GB (1 x 4 GB) PC (B4U36AA) (Green)",
+        "Price": "3090"
+    },
+    {
+        "Name": "Kingston HyperX Blu DDR3 4 GB (1 x 4 GB) PC DRAM ",
+        "Price": "3150"
+    }],
+"08GB":[
+    {
+        "Name": "Corsair Vengeance DDR3 8 GB (1 x 8 GB) PC DRAM",
+        "Price": "5628"
+    },
+    {
+        "Name": "Kingston HyperX DDR3 8 GB (1 x 8 GB) PC SDRAM",
+        "Price": "5499"
+    },
+    {
+        "Name": "Transcend JetRam DDR3 8 GB (1 x 8GB) PC DRAM (JM1600KLH-8G)",
+        "Price": "4900"
+    },
+    {
+        "Name": "Corsair Vengeance DDR3 8 GB (2 x 4 GB) PC DRAM",
+        "Price": "7899"
+    },
+    {
+        "Name": "G.Skill RipjawsX DDR3 8 GB (2 x 4 GB) PC DRAM",
+        "Price": "7000"
+    }],
+"16GB":[
+    {
+        "Name": "Corsair Vengeance DDR3 16 GB (2 x 8 GB) PC DRAM",
+        "Price": "14299"
+    },
+    {
+        "Name": "Corsair Vengeance Pro DDR3 16 GB (1 x 16 GB) PC ",
+        "Price": "15900"
+    },
+    {
+        "Name": "HyperX Predator DDR4 16 GB (1 x 16 GB) PC",
+        "Price": "29999"
+    },
+    {
+        "Name": "G.Skill TridentX DDR3 16 GB (2 x 8 GB) PC RAM",
+        "Price": "17699"
+    },
+    {
+        "Name": "G.Skill Ripjaws X DDR3 16 GB (1 X 16 GB) PC",
+        "Price": "13600"
+    }],
+"32GB":[
+    {
+        "Name": "G.Skill Ripjaws DDR3 32 GB (1 x 32 GB) PC",
+        "Price": "29500"
+    },
+    {
+        "Name": "Corsair Vengeance DDR3 32 GB (4 x 8 GB) PC DRAM",
+        "Price": "21996"
+    },
+    {
+        "Name": "Transcend JetRam DDR3 32 GB (4 x 8 GB) PC DRAM (JM1600KLH-8G)",
+        "Price": "19600"
+    },
+    {
+        "Name": "Corsair Vengeance Pro DDR3 32 GB (2 x 16 GB) PC ",
+        "Price": "31800"
+    },
+    {
+        "Name": "G.Skill Ripjaws X DDR3 32 GB (2 x 16 GB) PC",
+        "Price": "27200"
+    }]
+}

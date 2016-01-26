@@ -1,0 +1,107 @@
+{
+    "Graphics Card":[
+    {
+        "Capacity": "1GB",
+        "Name": "Asus NVIDIA GeForce EN210 Silent 1 GB DDR3",
+        "Price": "2060",
+        
+    },
+    {
+        "Name": "Sapphire AMD/ATI HD 7770 1 GB GDDR5",
+        "Price": "8400",
+        
+    },
+    {
+        "Name": "Gainward NVIDIA 1GB DDR3 GF210 1 GB DDR3",
+        "Price": "1819",
+        
+    },
+    {
+        "Name": "ZOTAC NVIDIA GeForce GT210 1 GB DDR3",
+        "Price": "2020",
+        
+    },
+    {
+        "Name": "Galaxy NVIDIA GeForce 210 1 GB DDR3",
+        "Price": "1900",
+        
+    }],
+    "2GB":[
+    {
+        "Name": "ZOTAC NVIDIA GTX650 Synergy Edition 2 GB",
+        "Price": "8690",
+        
+    },
+    {
+        "Name": "Sapphire AMD/ATI Radeon Dual-X R9 270X with Boost OC 2GB",
+        "Price": "14715",
+        
+    },
+    {
+        "Name": "Gainward NVIDIA 2GB DDR3 GT610 2 GB DDR3",
+        "Price": "3249",
+        
+    },
+    {
+        "Name": "XFX AMD/ATI Radeon HD 5450 2 GB DDR3",
+        "Price": "2525",
+        
+    },
+    {
+        "Name": "MSI TWIN FROZR GeForce GTX 750Ti/N750Ti TF 2GD5/OC 2GB GDDR5",
+        "Price": "11950",
+        
+    }],
+    "3GB":[
+    {
+        "Name": "Sapphire AMD/ATI HD 7950 3GB GDDR5 With Boost",
+        "Price": "18240",
+        
+    },
+    {
+        "Name": "ZOTAC NVIDIA GTX 780TI 3 GB DDR5",
+        "Price": "48990",
+        
+    },
+    {
+        "Name": "Leadtek NVIDIA Quadro K4000 3 GB DDR5",
+        "Price": "56900",
+        
+    },
+    {
+        "Name": "XFX AMD/ATI R7950 3 GB DDR5",
+        "Price": "23680",
+        
+    },
+    {
+        "Name": "Galaxy NVIDIA GTX 780 3 GB GDDR5",
+        "Price": "32200",
+        
+    }],
+    "4GB":[
+    {
+        "Name": "ZOTAC NVIDIA GeForce GTX 970 4 GB GDDR5",
+        "Price": "27240",
+        
+    },
+    {
+        "Name": "Sapphire AMD/ATI Radeon R9 270X with Boost OC 4GB",
+        "Price": "16999",
+        
+    },
+    {
+        "Name": "Asus NVIDIA Strix GTX 970 4 GB 4 GB GDDR5",
+        "Price": "29699",
+        
+    },
+    {
+        "Name": "MSI NVIDIA Gtx 970 Gaming 4 GB GDDR5",
+        "Price": "31000",
+        
+    },
+    {
+        "Name": "Forsa NVIDIA GT630 4 GB DDR3",
+        "Price": "5600",
+        
+    }]
+}

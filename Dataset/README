@@ -1,0 +1,42 @@
+The data is stored in JSON (JavaScript Object Notation) format which is easy-to-use and is compatible with Python. This is essentially a Python dictionary. Each json file corresponds to a facet. For example, HDD.json contains details about the Hard Disk Drives. An extract from this file is: 
+
+{
+"250GB":[
+    {
+        "Name": "Seagate DB 3.4 250 GB Desktop",
+        "Price": "1750"
+    },
+    {
+        "Name": "Seagate 250 GB Desktop",
+        "Price": "3200"
+    },
+    {
+        "Name": "Seagate Sata 250 GB Desktop",
+        "Price": "1825"
+    },
+    {
+        "Name": "Samsung 840 EVO 250 GB Desktop SSD",
+        "Price": "9633"
+    },
+    {
+        "Name": "WD Green Power 250 GB Desktop",
+        "Price": "1990"
+    }]
+}
+
+Under the 250GB category, we have five items and their corresponding cost. So, in general, the format for any json file for this project is:
+
+{"Specification i":[Instance1,Instance2,...],"Specification j":[Instance1,Instance2,...],...}
+
+An Instance j is like this: {"Name": "<value>","Price": "<value>"}
+
+The file can be accessed from a Python shell by:
+
+import json
+json_data=open('<filename>'.json')
+data=json.load(json_data)
+data[Specification i][Instance j][Name/Price] will give you the necessary data.
+
+For example, data['250GB'][3][Name] will give "Samsung 840 EVO 250 GB Desktop SSD".
+
+Eventhough accessing the data requires three indexes, the data is better structured than a linear list and hence, querying is easier.
